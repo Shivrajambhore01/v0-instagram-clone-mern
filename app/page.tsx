@@ -16,7 +16,7 @@ export default function HomePage() {
           <Button asChild size="lg" variant="secondary">
             <Link href="/login">Sign In</Link>
           </Button>
-          <Button asChild size="lg" variant="outline">
+          <Button asChild size="lg" variant="secondary">
             <Link href="/register">Sign Up</Link>
           </Button>
         </div>
