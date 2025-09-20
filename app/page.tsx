@@ -9,7 +9,7 @@ export default function HomePage() {
         <p className="text-xl mb-8">Share your moments with the world</p>
         <div className="bg-white/20 backdrop-blur-sm rounded-lg p-4 mb-6">
           <p className="text-sm">
-            Use any email/password to login or create an account.
+            Use email and password to login or create an account.
           </p>
         </div>
         <div className="space-x-4">
