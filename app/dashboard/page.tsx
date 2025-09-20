@@ -67,7 +67,7 @@ export default function DashboardPage() {
       {/* Header */}
       <header className="bg-white border-b sticky top-0 z-10">
         <div className="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between">
-          <h1 className="text-2xl font-bold">Instagram Clone</h1>
+          <h1 className="text-2xl font-bold">Instagram </h1>
           <div className="flex items-center gap-4">
             <Button variant="ghost" size="sm" asChild>
               <Link href="/search">
